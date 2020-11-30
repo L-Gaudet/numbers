@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Lucas Gaudet 
+2. Student ID: 2377818
+3. Email: lgaudet@chapman.edu
+4. Class: CENG/CPSC-298-01
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,9 +16,10 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
-
+None that are known
 ## References
-
+Linux for Developers textbook
+Class slides
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
